@@ -65,6 +65,7 @@
                 <version>2.9</version>
                 <configuration>
                     <reportVersion>2.7.0</reportVersion>
+                    <allureDownloadUrl>https://github.com/allure-framework/allure2/releases/download/2.7.0/allure-2.7.0.zip</allureDownloadUrl>
                 </configuration>
             </plugin>
         </plugins>
