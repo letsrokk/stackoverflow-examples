@@ -4,3 +4,8 @@ Feature: Example Feature file for Stackoverflow
     Given question asked
     When answered correctly
     Then mark as accepted
+
+  Scenario: Failing scenario
+    Given question asked
+    When something went wrong
+    Then fail scenario
